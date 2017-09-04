@@ -1,9 +1,9 @@
 
-You have to download sourse data from link below and unzip it to working directory of R Studio.
-You have to perform R script.
+You have to download source data from link below and unzip it to working directory of R Studio.
+Following this you execute the R script included.
 
 About source data:
-As sourse data for work was used Human Activity Recognition Using Smartphones Data Set. 
+As source data for work was used Human Activity Recognition Using Smartphones Data Set. 
 A full description is available at the site where the data was obtained: 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
